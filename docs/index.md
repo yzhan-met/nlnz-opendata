@@ -1,11 +1,11 @@
-# Welcome to NLNZ Open Data Category
+# Welcome to NLNZ Open Data
 
-For full documentation visit .
+This portal provides a brief version of NLNZ Open Data (e.g., Digital NZ, Papers Past) )along with some hands-on examples. For more information, please visit their main webpages.
 
-## Commands
+## Description
 
 TBD
 
-## Project layout
+## Projects
 
   TBD

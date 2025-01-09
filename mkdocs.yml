@@ -2,4 +2,5 @@ site_name: NLNZ Open Data
 nav:
   - Home: index.md
   - Open Data: openData.md
-theme: readthedocs
+  - Collections: collections.md
+# theme: readthedocs

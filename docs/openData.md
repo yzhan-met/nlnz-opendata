@@ -1,9 +1,11 @@
 # Open Data
 
-The description of NLNZ Open Data can be found in ...
+Download or get API access to data from the Library and other organisations, and turn it into new apps, analysis, or reinterpretations. This metadata includes titles, dates, cataloguers’ descriptions, and more.
 
-## Collections
+## What is open data?
 
-* Collection - 1:
-* Collection - 2:
-* Collection - 3:
+## NLNZ open data policies
+
+## Privacy for open data
+
+## Formats for open data
