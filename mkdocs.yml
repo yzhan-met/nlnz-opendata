@@ -1,6 +1,58 @@
 site_name: NLNZ Open Data
+
+site_description: 'A collection of description and examples to help you work with open data from National Library of New Zealand and Archive of New Zealand.'
+site_author: 'Yizhe Zhan'
+site_url: 'https://yzhan-met.github.io/nlnz-opendata'
+
+# Repository
+repo_name: yzhan-met/nlnz-opendata
+repo_url: 'https://github.com/yzhan-met/nlnz-opendata'
+edit_uri: 'edit/main/docs'
+
+# Copyright
+copyright: 'Copyright &copy; 2025 <a href="/contributors/">NLNZ opendata contributors</a>.<br/>Documentation is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br/>Original code is licensed under an <a href="https://opensource.org/licenses/MIT">MIT Licence</a>.'
+
+
 nav:
   - Home: index.md
-  - Open Data: openData.md
-  - Collections: collections.md
-# theme: readthedocs
+  - About: about.md
+  - Open data: opendata.md
+
+
+theme: 
+  name: 'material'
+  language: 'en'
+  features:
+    - content.code.annotate
+    - content.action.edit
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - announce.dismiss
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  favicon: img/favicon.ico
+  logo: img/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
+    view: material/eye
+    edit: material/pencil
+
