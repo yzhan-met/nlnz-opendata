@@ -2,34 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://yzhan-met.github.io/nlnz-opendata/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-20</lastmod>
     </url>
     <url>
          <loc>https://yzhan-met.github.io/nlnz-opendata/about/about/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-20</lastmod>
     </url>
     <url>
          <loc>https://yzhan-met.github.io/nlnz-opendata/about/policy/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-20</lastmod>
     </url>
     <url>
          <loc>https://yzhan-met.github.io/nlnz-opendata/api/digitalnz_api/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-20</lastmod>
     </url>
     <url>
          <loc>https://yzhan-met.github.io/nlnz-opendata/collection/digitalnz/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-20</lastmod>
     </url>
     <url>
          <loc>https://yzhan-met.github.io/nlnz-opendata/collection/nlnz/</loc>
-         <lastmod>2025-01-14</lastmod>
-    </url>
-    <url>
-         <loc>https://yzhan-met.github.io/nlnz-opendata/collection/paperspast/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-20</lastmod>
     </url>
     <url>
          <loc>https://yzhan-met.github.io/nlnz-opendata/collection/turnbull/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-20</lastmod>
     </url>
 </urlset>
