@@ -15,8 +15,15 @@ copyright: 'Copyright &copy; 2025 <a href="/contributors/">NLNZ opendata contrib
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Open data: opendata.md
+  - About: 
+    - about/about.md
+    - Policy: about/policy.md
+  - API:
+    - Digital NZ API: api/digitalnz_api.md
+  - Open data: 
+    - NLNZ open data: collection/nlnz.md
+    - Turnbull Library open data: collection/turnbull.md
+    - Digital NZ open data: collection/digitalnz.md
 
 
 theme: 

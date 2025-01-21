@@ -1,0 +1,8 @@
+## Digital NZ open data
+
+| Open data                                                                                                                                                                                                       | Description                                                     | Example |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------- |
+| [Auckland Fire Brigades Museum and Historical Society](https://digitalnz.org/records?i%5Bcontent_partner%5D=Auckland+Fire+Brigades+Museum+and+Historical+Society&text=)                                            | Helmets, hoses, medals, and staff photos                        |         |
+| [University of Canterbury Heritage Collection](https://digitalnz.org/records?i[primary_collection]=University%20of%20Canterbury%20Heritage%20Collection)                                                           | Scientific instruments, lantern slides, and academic gowns      |         |
+| [University of Canterbury Teece Museum of Classical Antiquities](https://digitalnz.org/records?i[content_partner]=University%20of%20Canterbury%20Teece%20Museum%20of%20Classical%20Antiquities)                    | Coins, painted pottery, and amulets from ancient civillisations |         |
+| [University of Otago Open Journal Systems](https://digitalnz.org/records?text=&i%5Bcontent_partner%5D=University%20of%20Otago&i%5Bprimary_collection%5D=University%20of%20Otago%20Open%20Journal%20Systems&page=1) | Digitised open journals from Aotearoa New Zealand               |         |
